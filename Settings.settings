@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Synapse_X_Remake.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TopMost" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="EditorSave" Type="System.String" Scope="User">
+      <Value Profile="(Default)">print("Synapse X Remake By Charlzk")
+
+-- Source Code: github.com/Charlzk05/Synapse-X-Remake-Synapse-X-Free-Version
+-- License: GNU General Public License v3.0</Value>
+    </Setting>
+    <Setting Name="OldEditor" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="KrnlAPI" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

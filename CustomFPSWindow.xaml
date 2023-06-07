@@ -1,0 +1,34 @@
+﻿<Window x:Class="Synapse_X_Remake.CustomFPSWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Synapse_X_Remake"
+        mc:Ignorable="d"
+        Title="1b665f74abfa273414e5f6a753f840c5" ResizeMode="NoResize" Loaded="Window_Loaded"
+        MouseDown="Window_MouseDown" Icon="Synapse X Logo.ico" WindowStartupLocation="CenterScreen"
+        WindowStyle="None" Height="163" Width="421" Background="#FF333333">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid x:Name="TopBox" HorizontalAlignment="Center" Height="30" VerticalAlignment="Center" Width="421" Background="#FF3C3C3C">
+            <Label x:Name="TitleBox" Content="Synapse X - Custom FPS" HorizontalAlignment="Center" Margin="5,0,0,0" VerticalAlignment="Center" Foreground="White"/>
+            <Image x:Name="IconBox" Source="Synapse X Logo.ico" Height="24" Width="24" HorizontalAlignment="Left" Margin="6,0,0,0" VerticalAlignment="Center"/>
+            <Button Name="ExitButton" Content="X" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}" HorizontalAlignment="Right" VerticalAlignment="Top" Width="22" Foreground="White" Click="ExitButton_Click"/>
+            <Button Name="MiniButton" Content="_" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}" HorizontalAlignment="Right" VerticalAlignment="Top" Width="22" Foreground="White" Margin="0,0,22,0" Click="MiniButton_Click"/>
+        </Grid>
+
+        <TextBox x:Name="fpsBox" Foreground="White" Background="#1E1E1E" BorderThickness="0" Padding="6" Text="60" VerticalAlignment="Top" Grid.Row="1" Height="30" Margin="10,44,10,0"/>
+        <Label Content="Set your custom fps" FontSize="14px" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Foreground="White" Grid.Row="1"/>
+
+        <Button Name="SetFpsButton" Click="SetFpsButton_Click" Content="Set Fps" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}" Margin="10,90,0,0" Grid.Row="1" Width="195" Height="30" Foreground="White" Background="#FF3C3C3C" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+        <Button Name="CloseButton" Click="CloseButton_Click" Content="Close" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}" Margin="210,90,0,0" Grid.Row="1" VerticalAlignment="Top" Width="202" Height="30" Foreground="White" Background="#FF3C3C3C" HorizontalAlignment="Left"/>
+    </Grid>
+</Window>

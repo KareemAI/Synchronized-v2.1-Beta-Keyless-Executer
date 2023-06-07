@@ -1,0 +1,32 @@
+﻿<Window x:Class="Synapse_X_Remake.LoaderWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Synapse_X_Remake"
+        mc:Ignorable="d"
+        Title="988589d2ad7cb75d9a78ef9cbe5c235f" ResizeMode="NoResize" Height="116.685" Width="418.203"
+        WindowStartupLocation="CenterScreen" Icon="Resources/Synapse X Logo.ico" MouseDown="Window_MouseDown"
+        WindowStyle="None" Background="#FF333333">
+    <Grid Height="120" Margin="0,0,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Width="418">
+        <Grid.Background>
+            <ImageBrush x:Name="ImagePath"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid Name="TopBox" HorizontalAlignment="Left" Height="30" Background="#FF3C3C3C" VerticalAlignment="Center" Width="418"/>
+
+        <TextBlock Name="TitleBox" Text="Synapse X Remake - Loader" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" Foreground="White"/>
+        <Image Name="IconBox" Source="Resources/Synapse X Logo.ico" Height="24" Width="24" HorizontalAlignment="Left" Margin="6,0,0,0" VerticalAlignment="Center"/>
+
+        <Label Name="StatusBox" Content="Loading ..." HorizontalAlignment="Center" Margin="0,10.2,0,0" Grid.Row="1" VerticalAlignment="Top" Foreground="White" FontSize="14"/>
+        <ProgressBar Name="ProgressBox" HorizontalAlignment="Left" Value="0" Height="21" Margin="19,44.2,0,0" Grid.Row="1" VerticalAlignment="Top" Width="387"/>
+    </Grid>
+</Window>
