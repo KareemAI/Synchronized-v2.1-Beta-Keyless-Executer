@@ -15,7 +15,7 @@ Apart from this, it works properly all time and it frequently updates its featur
 
 ## Screenshot 🎬
 
-![image](![image](https://cdn.discordapp.com/attachments/1094511890828365827/1163003854980403321/image.png?ex=653dfebe&is=652b89be&hm=15057f6859512156ea62becb84edddad5bb0b2c2bd5b0e30020cc613e8b36718&)
+![image](https://cdn.discordapp.com/attachments/1094511890828365827/1163003854980403321/image.png?ex=653dfebe&is=652b89be&hm=15057f6859512156ea62becb84edddad5bb0b2c2bd5b0e30020cc613e8b36718&)
 
 
 ## Requirements
