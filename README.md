@@ -1,4 +1,4 @@
-## Synapse X Overview 🏵
+## Synchronized X (v2.1) Overview
 
 
 <p align="center"><img src="C:\Users\Karee.MSI\Downloads\image-removebg-preview.png&)" height="180"/>
