@@ -1,7 +1,7 @@
 ## Synchronized X (v2.1) Overview
 
 
-<p align="center"><img src="![image](https://media.discordapp.net/attachments/1094511890828365827/1163009605937418320/image.png?ex=653e0419&is=652b8f19&hm=9cda9a827554c92a5d60f53e15e6bf11987fe1269b19642b6c972d67ae5916bf&)" height="180"/>
+<p align="center"><img src="![image](https://media.discordapp.net/attachments/1094511890828365827/1163005238245068830/image.png?ex=653e0008&is=652b8b08&hm=534d0177901e9d426e1870f68d7337c329ce833ae50281fc489058128922a027&=)" height="180"/>
 
 Are you looking for a convenient and reliable Roblox Executor? If so, then download Synchronized X v2.1. It is the most stable executor that contains a vast library of advanced scripts that help players to exploit Roblox games. Basically, it works as a script engine that helps players to execute the scripts and make the games simple to combat.
 This script executor is developed with unmatched security directions and absolutely it is undetectable. Definitely, without concerns of an account ban, you can exploit the games and run the games according to your preferences. It also protects your account from external bugs and instantly fixes the problems without taking a single dime.
